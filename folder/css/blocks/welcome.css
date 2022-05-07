@@ -1,0 +1,32 @@
+.welcome{
+    width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 192px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 375px;
+}
+
+.welcome div{
+    width: 55%;
+    margin-left: 0;
+}
+
+
+.welcome__title{
+    margin-left: -3px;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-bottom: 18px;
+}
+
+.welcome__subtitle{
+    font-size: 21px;
+    margin-left: 4px;
+    margin-bottom: 75px;
+}
+
+
+

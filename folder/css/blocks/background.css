@@ -1,0 +1,20 @@
+.background-up, .background-down{
+    position: absolute;
+    mix-blend-mode: luminosity;
+    box-shadow: 0px 10px 80px #17191C;
+    z-index: -3;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: auto;
+}
+
+.background-down{
+    left: 0px;
+    top: 1762px;
+}
+
+.background-gradient{
+    position:absolute;
+    height: 236px;
+    top: 1762px;
+}

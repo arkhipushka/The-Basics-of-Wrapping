@@ -1,0 +1,42 @@
+
+
+
+footer .logo{
+    margin-right: 130px;
+    padding-bottom: 10px;
+}
+
+footer .menu{
+    font-size: 16px;
+    margin-right: 40px;
+    padding-top: 5px;
+}
+
+footer .contacts{
+    top: 10px;
+}
+
+
+.footer{
+    border-top: 1px solid #353538;
+    height: 150px;
+    padding-top: 47px;
+}
+
+.footer--games{
+    height: 135px;
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.footer__col{
+    display: flex;
+}
+
+
+
+

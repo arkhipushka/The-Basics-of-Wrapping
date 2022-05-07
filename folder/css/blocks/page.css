@@ -1,0 +1,22 @@
+.page-content{
+    padding: 95px 0;
+    background: #fff;
+    color: #333;
+}
+
+.page-content .paginator__number--active .paginator__link{
+    background: #8F00FF;
+    color: #fff;
+}
+
+.page-content .paginator__number .paginator__link:hover{
+    background: #8F00FF;
+    color: #fff;
+}
+
+.page-title{
+    font-family: -apple-system,'Open Sans',sans-serif;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 1;
+}

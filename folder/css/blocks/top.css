@@ -1,0 +1,25 @@
+
+
+.top-line__header{
+    margin-bottom: 0;
+    padding-top: 20px;
+}
+
+.top-line{
+    min-height: 415px;
+    background-color: #17191C;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 25px;
+    background-image: url(../../img/background-top.png);
+    background-blend-mode: luminosity;
+    box-shadow: inset 0px -46px 50px #17191C;
+    overflow: hidden;
+}
+
+.top-line__container{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

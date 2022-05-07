@@ -1,0 +1,25 @@
+.button{
+    background: #8F00FF;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 18px 40px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.button:hover{
+    background: #741BBA;
+    box-shadow: 0px 2px 25px 4px rgba(145, 0, 212, 0.3);
+    border-radius: 5px;
+}
+
+.button--transparent{
+    background: none;
+    color: #fff;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    border-radius: 5px; 
+}
+
