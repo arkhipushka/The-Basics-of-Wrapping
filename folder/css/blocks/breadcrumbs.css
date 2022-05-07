@@ -13,6 +13,10 @@
     align-items: center;
 }
 
+.breadcrumbs__item:hover{
+    font-weight: bold;
+}
+
 .breadcrumbs__item--active{
     font-weight: bold;
 }
