@@ -1,6 +1,7 @@
 .contacts{
     font-style: normal;
     text-align: right;
+    padding-top: 10px;
 } 
 
 .contacts__phone{

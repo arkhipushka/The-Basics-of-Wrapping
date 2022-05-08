@@ -7,10 +7,6 @@
     font-size: 36px;
 }
 
-.logo, .menu, .menu__item, .contacts{
-    display: inline-block;
-}
-
 .logo{
     margin-right: 262px;
 }
