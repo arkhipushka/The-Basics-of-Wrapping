@@ -11,3 +11,8 @@
     margin-right: 262px;
 }
 
+.logo:hover{
+    box-shadow: 10px 20px 40px 20px rgba(150, 0, 219, 0.03);
+    transition: 0.3s;
+}
+

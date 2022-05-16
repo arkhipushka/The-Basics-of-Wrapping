@@ -1,9 +1,8 @@
-
 .about{
+    display: flex;
     width: 1140px;
     margin: 0 auto;
     margin-bottom: 53px;
-    display: flex;
 }
 
 
@@ -41,7 +40,6 @@
 
 .about__text p{
     margin-bottom: 20px;
-
 }
 
 .about__text p:last-child{

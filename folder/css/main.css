@@ -20,10 +20,21 @@
 @import url(./blocks/breadcrumbs.css);
 @import url(./blocks/inner.css);
 @import url(./blocks/partners.css);
+@import url(./blocks/separator.css);
+@import url(./blocks/avatar.css);
+@import url(./blocks/review.css);
+@import url(./blocks/tag.css);
+@import url(./blocks/form.css);
+@import url(./blocks/controls.css);
+@import url(./blocks/central.css);
+@import url(./blocks/welcome-page.css);
+@import url(./blocks/dropdown.css);
+@import url(./blocks/animate.css);
+
+
 
 @import url(./layout/normalize.css);
 @import url(./layout/base.css);
-
 
 
 .shadow{
@@ -32,6 +43,29 @@
     top: 0px;
     z-index: -1; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

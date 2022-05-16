@@ -11,6 +11,7 @@
 .newoffers__item{
     width: calc(100%/3 - 18px);
     min-height: 100%;
+    transition: 0.3s;
 }
 
 .newoffers__item__wrapper{
@@ -37,6 +38,10 @@
     min-height: 144px;
     border-radius: 5px 5px 0px 0px;
     vertical-align: top;
+}
+
+.newoffers__item:hover{
+    transform: scale(1.005);
 }
 
 .newoffers__features{

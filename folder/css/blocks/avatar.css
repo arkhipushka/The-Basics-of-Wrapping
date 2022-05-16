@@ -1,0 +1,9 @@
+.avatar{
+    overflow: hidden;
+    margin-right: 22px;
+}
+
+.avatar__img{
+    width: 142px;
+    height: 142px;
+}

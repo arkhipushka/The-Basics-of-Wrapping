@@ -1,0 +1,15 @@
+.welcome-page{
+    background-color: #17191C;
+    background-image: url(../img/bg-welcome.png);
+    background-blend-mode: luminosity;   
+}
+
+.welcome-page{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0px 46px 50px 70px #17191C;
+    height: 100%;
+    width: 100%;
+}

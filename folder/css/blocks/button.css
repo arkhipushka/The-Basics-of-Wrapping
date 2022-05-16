@@ -1,18 +1,21 @@
 .button{
     background: #8F00FF;
+    color: #fff;
     border-radius: 5px;
     font-size: 14px;
     padding: 18px 40px;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-    display: inline-block;
+    display: inline-flex;
+    transition: 0.5s;
 }
 
 .button:hover{
     background: #741BBA;
     box-shadow: 0px 2px 25px 4px rgba(145, 0, 212, 0.3);
     border-radius: 5px;
+    transform: scale(1.05);
 }
 
 .button--transparent{
@@ -23,3 +26,30 @@
     border-radius: 5px; 
 }
 
+.button--form{
+    padding: 20px 40px;
+}
+
+.button--grey{
+    padding: 20px 44px;
+    color: #fff;
+    background: #8E8E8E;
+}
+
+.button--grey:hover{
+    color: #fff;
+    background: #2B2B2B;
+    box-shadow: 0px 2px 25px 4px rgba(24, 24, 24, 0.3);
+}
+
+.button__welcome{
+    padding: 18px 58px;
+}
+
+.button--form{
+    margin-right: 15px;
+}
+
+.button--form:last-child{
+    margin-right: 0;
+}

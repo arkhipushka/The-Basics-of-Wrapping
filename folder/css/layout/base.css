@@ -11,6 +11,10 @@ html {
 	font-size: 16px;
 }
 
+.html{
+    background: #fff;
+}
+
 
 body{
 	background: #17191C ;
@@ -20,6 +24,9 @@ body{
     -moz-osx-smoothing: grayscale;
 }
 
+body {
+    overflow: hidden scroll;
+}
 
 body,
 html

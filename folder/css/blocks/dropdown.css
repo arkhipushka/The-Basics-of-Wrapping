@@ -1,0 +1,14 @@
+.dropdown{
+    height:80px;
+    width: 160px;
+    position: absolute ;
+    opacity: 0;
+    top: 75px;
+    left: 9999px;
+}
+
+.contacts__info:hover .dropdown{
+    left: 1365px;
+    transition: opacity 0.5s;
+    opacity: 1;
+}

@@ -1,6 +1,3 @@
-
-
-
 footer .logo{
     margin-right: 130px;
     padding-bottom: 10px;
@@ -16,7 +13,6 @@ footer .contacts{
     top: 10px;
 }
 
-
 .footer{
     height: 150px;
     padding-top: 40px;
@@ -29,6 +25,10 @@ footer .contacts{
 }
 
 .footer--games{
+    height: 135px;
+}
+
+.footer--reviews{
     height: 135px;
 }
 

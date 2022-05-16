@@ -35,4 +35,10 @@
     background: #8F00FF;
 }
 
+.paginator__link{
+    
+    transition: 0.5s;
+}
+
+
 

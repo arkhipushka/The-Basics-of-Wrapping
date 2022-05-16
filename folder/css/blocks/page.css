@@ -4,6 +4,10 @@
     color: #333;
 }
 
+.page-content--reviews{
+    padding: 100px 0 87px 0px
+}
+
 .page-content .paginator__number--active .paginator__link{
     background: #8F00FF;
     color: #fff;
